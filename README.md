@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Juan Loza
 
-🎯 Estagiário de Programação na Multimac Portugal | 💻 Apaixonado por tecnologia, IA e desenvolvimento web  
+💻 Apaixonado por tecnologia, IA e desenvolvimento web  
 📍 Baseado em Portugal | 🌱 Sempre aprendendo algo novo
 
 ---
@@ -11,9 +11,8 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 
 - 🧠 **Inteligência Artificial**: projetos com GPT, automações com Python, leitura de documentos com OCR
 - 🌐 **Desenvolvimento Web**: HTML, CSS, JavaScript, React.js, Node.js, PHP
-- 🧰 **Back-end e APIs**: MySQL, Express, integração com APIs REST
+- 🧰 **Back-end e APIs**: MySQL, Express, integração com APIs REST, SQL Server
 - 🛠️ **Projetos de Estágio**: CRM, portal administrativo, consumo de APIs empresariais
-- ✝️ Comprometido com minha fé e valores cristãos, atuo na liderança juvenil da igreja
 
 ---
 
@@ -37,17 +36,9 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,git,github,vscode)
 
 ---
-
-## 📈 GitHub Stats
-
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuperfil&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&layout=compact&theme=github_dark)
-
----
-
 ## 📫 Como falar comigo
 
-- Email: [seuemail@email.com](mailto:seuemail@email.com)
+- Email: [juanloza.dev@gmail.com](mailto:juanloza.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
 - Portfólio (em breve)
 
