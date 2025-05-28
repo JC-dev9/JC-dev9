@@ -23,7 +23,7 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 ## 📫 Como falar comigo
 
 - Email: [juanloza.dev@gmail.com](mailto:juanloza.dev@gmail.com)
-- LinkedIn: [linkedin.com/in/seuperfil]([https://linkedin.com/in/seuperfil](https://pt.linkedin.com/in/juan-loza-5b549b285))
+- LinkedIn: [linkedin.com/in/seuperfil](https://pt.linkedin.com/in/juan-loza-5b549b285)
 - Portfólio (em breve)
 
 ---
