@@ -9,9 +9,9 @@
 
 Sou um jovem desenvolvedor em constante evolução, focado em criar soluções inteligentes e úteis com código limpo e boas práticas. Tenho experiência com:
 
-- 🧠 **Inteligência Artificial**: projetos com GPT, automações com Python, leitura de documentos com OCR
-- 🌐 **Desenvolvimento Web**: HTML, CSS, JavaScript, React.js, Node.js, PHP
-- 🧰 **Back-end e APIs**: MySQL, Express, integração com APIs REST, SQL Server
+- 🧠 **Inteligência Artificial**: desenvolvimento de chatbots, automações com Python, extração de dados via OCR, aplicação básica de machine learning e NLP (Natural Language Processing)
+- 🌐 **Desenvolvimento Web**: HTML, CSS, JavaScript e React.js
+- 🧰 **Back-end e APIs**: MySQL, Express.js, Node.js, PHP, SQL Server, C# e integração com APIs REST
 
 ---
 
