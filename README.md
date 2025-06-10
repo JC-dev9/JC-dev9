@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Juan Loza
 
-💻 Apaixonado por tecnologia, IA e desenvolvimento web  
-📍 Baseado em Portugal | 🌱 Sempre aprendendo algo novo
+💻 Apaixonado por tecnologia
+📍 Portugal | 🌱 Sempre aprendendo algo novo
 
 ---
 
