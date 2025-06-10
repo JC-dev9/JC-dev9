@@ -11,13 +11,14 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 
 - 🧠 **Inteligência Artificial**: desenvolvimento de chatbots, automações com Python, extração de dados via OCR, aplicação básica de machine learning e NLP (Natural Language Processing)
 - 🌐 **Desenvolvimento Web**: HTML, CSS, JavaScript e React.js
-- 🧰 **Back-end e APIs**: MySQL, Express.js, Node.js, PHP, SQL Server, C# e integração com APIs REST
+- 🗃️ **Base de dados**: MySQL, SQL Server, PostgreSQL e SQLite
+- 🧰 **Back-end e APIs**: Express.js, Node.js, PHP, C, C# e integração com APIs RESTful
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,git,github,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,csharp,c,react,nodejs,express,python,php,mysql,sqlserver,sqlite,postgres,git,github,vscode,visualstudio,)
 
 ---
 ## 📫 Como falar comigo
