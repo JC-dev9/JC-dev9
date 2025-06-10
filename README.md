@@ -29,5 +29,5 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 
 ---
 
-💡 *"Tudo que fizerem, façam de todo o coração, como para o Senhor, e não para os homens." – Colossenses 3:23*
+💡 *"Tudo posso naquele que me fortalece." – Filipenses 4:13*
 
