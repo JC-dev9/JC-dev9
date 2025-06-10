@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Juan Loza
 
-💻 Apaixonado por tecnologia
+💻 Apaixonado por tecnologia |
 📍 Portugal | 🌱 Sempre aprendendo algo novo
 
 ---
