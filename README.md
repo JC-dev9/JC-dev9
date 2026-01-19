@@ -18,7 +18,7 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c,react,nodejs,express,python,php,mysql,sqlite,postgres,git,github,vscode,visualstudio,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,dotnet,react,nodejs,express,python,php,mysql,sqlite,postgres,git,github,vscode,visualstudio,azure)
 
 ---
 ## 📫 Como falar comigo
