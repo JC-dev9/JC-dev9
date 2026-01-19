@@ -18,8 +18,11 @@ Sou um jovem desenvolvedor em constante evolução, focado em criar soluções i
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,sql,react,nextjs,nodejs,express,dotnet,flutter,python,php,mysql,sqlite,postgres,sqlserver,supabase,git,github,vscode,visualstudio,vercel,azure,linux,windows)
-
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs)
+![Backend](https://skillicons.dev/icons?i=c,cs,dotnet,nodejs,express,python,php)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
+![DevOps](https://skillicons.dev/icons?i=git,github,vercel,supabase,azure)
+![OS](https://skillicons.dev/icons?i=windows,linux)
 
 
 ---
